@@ -1,0 +1,7 @@
+6
+cats
+dogs
+giraffes
+frogs
+ants
+lions
